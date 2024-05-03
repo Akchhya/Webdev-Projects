@@ -1,0 +1,47 @@
+
+h1 {
+  color: #66bfbf;
+  font-size: 3.5rem;
+  margin: 50px auto 0 auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+h2 {
+  color: #66bfbf;
+  font-family: "Roboto Slab", serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
+}
+
+p {
+  line-height: 2;
+}
+.top-container {
+  background-color: #e4f9f5;
+  position:absolute;
+  padding-top: 100px;
+}
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+}
+.profile img{
+  align-self: auto;
+  width: 400px;
+  height: 400px;
+}
+.title-text img{
+  float: left;
+  display: block;
+  margin-right: 20px;
+}
